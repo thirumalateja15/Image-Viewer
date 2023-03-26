@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570413988092",
+    "firebase_url": "https://imageviewer-77a86-default-rtdb.firebaseio.com",
+    "project_id": "imageviewer-77a86",
+    "storage_bucket": "imageviewer-77a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570413988092:android:5a9e2b43ccc6ecde993f79",
+        "android_client_info": {
+          "package_name": "com.example.imageviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570413988092-9olck5bokled67rpep88fons4ru48925.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80QyWQzy3dly5GUaXMSdEWbWcO1LEJe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570413988092-9olck5bokled67rpep88fons4ru48925.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
